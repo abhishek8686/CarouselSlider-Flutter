@@ -2,7 +2,8 @@
 
 A new Flutter application.
 
-https://user-images.githubusercontent.com/14853384/82790401-9d995000-9e89-11ea-9997-3769272406c9.png
+![Simulator Screen Shot - iPhone 11 - 2020-05-25 at 13 06 50](https://user-images.githubusercontent.com/14853384/82790401-9d995000-9e89-11ea-9997-3769272406c9.png)
+
 
 ## Getting Started
 
